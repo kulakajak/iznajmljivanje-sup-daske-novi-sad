@@ -13,18 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Iznajmi sto za stoni tenis u Novom Sadu
+title: Iznajmljivanje SUP daske Novi Sad
 author: >-
   Ovu uslugu vam pruža:<br>
   <b>Trk inovacije doo</b> Novi Sad<br>
   Nova 3, broj 9, Novi Sad<br>
   Telefon <a href='tel:0637298539'>063 7298539</a>
 description: >- # this means to ignore newlines until "baseurl:"
-  Obezbedite dobru rekreaciju za vas i vašu decu tako što ćete iznajmiti sto za
-  stoni tenis. Isporuka i preuzimanje na vašoj adresi ili biloj kojoj drugoj
-  lokaciji na području Novog Sada.
+  Teretana na vodi, plank, izdrzaj i dva sunca (jedno se odbija od vode)
+  dobijate kada iznajmite SUP (Stand Up Paddleboard) dasku. Mozemo zajedno
+  proveslati u Dunavcu ili Sodrosu u Novom Sadu, ili je mozete poneti na more
+  ili jezero.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iznajmi-sto-za-stoni-tenis-novi-sad.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://iznajmljivanje-sup-daske-novi-sad.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
