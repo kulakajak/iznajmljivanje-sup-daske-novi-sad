@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reference
-permalink: /reference/
+title: Vesti
+permalink: /vesti/
 ---
 
 <ul class="post-list">

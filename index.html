@@ -21,3 +21,17 @@ layout: page
     <i>Vršimo dostavu na području Novog Sada</i>
   </div>
 </div>
+
+<hr>
+
+{% assign last_post = site.posts.first %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+Poslenja vest <span class="post-meta">{{ last_post.date | date: date_format }}</span>
+<h3>
+  <a class="post-link" href="{{ last_post.url | relative_url }}">
+    {{ last_post.title | escape }}
+  </a>
+</h3>
+
+Pogledajte ostale vesti na stranici za <a href='/vesti'>VESTI</a>
+
