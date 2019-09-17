@@ -13,6 +13,10 @@ Posebno je lepa kamenita brana.
 
 ![SUP Beocin Ostrvo ljubavi kamenita brana](/assets/posts/sup beocin ostrvo ljubavi kamenita brana.jpg)
 
+Ovo je slika da vidite kako izgleda kada je visok Dunav
+
+![SUP Beocin Ostrvo ljubavi kada je visok dunav](/assets/posts/sup beocin ostrvo ljubavi kada je visok dunav.jpg)
+
 Kao i uvek, ovaj sport je dobar zato sto mozete povesti i komsijsku decu, a da
 pritom jos vise uzivate jacajuci svoje misice
 
