@@ -13,3 +13,6 @@ Add watermark
 ```
 image.rb watermark iznamljivanje-sup-daske-novi-sad.trk.in.rs assets/posts/*.jpg
 ```
+
+# Deploy
+
