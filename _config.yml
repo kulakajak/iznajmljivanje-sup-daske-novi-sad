@@ -21,9 +21,7 @@ author: >-
   Telefon <a href='tel:0637298539'>063 7298539</a>
 description: >- # this means to ignore newlines until "baseurl:"
   Teretanu na vodi sa dva sunca (jedno se odbija od vode)
-  dobijate kada iznajmite SUP (Stand Up Paddleboard) dasku. Mozemo zajedno
-  proveslati u Dunavcu ili Sodrosu u Novom Sadu, ili je mozete poneti na more
-  ili jezero.
+  dobijate kada iznajmite SUP (Stand Up Paddleboard) dasku.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iznajmljivanje-sup-daske-novi-sad.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
 
