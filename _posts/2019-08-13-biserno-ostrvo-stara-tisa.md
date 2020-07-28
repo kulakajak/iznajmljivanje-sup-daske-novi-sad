@@ -13,9 +13,7 @@ vrlo tesko pronalaze) i na kojima mozete da uzivate u pravoj prirodi:
 ![SUP Biserno Ostrvo skokovi sa platforme](/assets/posts/sup biserno ostrvo skokovi sa platforme.jpg)
 
 Biserno ostrvo je udaljeno oko 45 minuta od Novog Sada, ali posto SUP daske nisu
-teske, mogu se staviti na krov.
-
-![SUP Biserno ostrvo natovaren auto](/assets/posts/sup biserno ostrvo natovaren auto.jpg)
+teske, mogu se staviti na krov od auta.
 
 Na Staroj Tisi kod Backog Gradista postoji i mostic sa koga moze lepo da se
 skace
