@@ -27,7 +27,17 @@ layout: default
 </article>
 <center>
   <a href='/naruci' class='btn btn-success'>Rezervišite vašu SUP dasku</a>
-  <br>
-  ili pročitajte ostale <a href='/vesti'>vesti</a>
 </center>
-
+<center>
+Pročitajte 
+  {% if page.previous.url %}
+    <a href="{{page.previous.url}}">predhodnu vest ({{page.previous.title}})</a>
+    {% if page.next.url %}
+    ,
+    {% endif %}
+  {% endif %}
+  {% if page.next.url %}
+    <a href="{{page.next.url}}">narednu vest ({{page.next.title}})</a>
+  {% endif %}
+ili pregledajte <a href='/vesti'>sve vesti</a>.
+</center>
