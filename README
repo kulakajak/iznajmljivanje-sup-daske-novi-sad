@@ -21,3 +21,5 @@ Site is using github pages so to deploy you just need to
 ```
 git push
 ```
+
+That's it
