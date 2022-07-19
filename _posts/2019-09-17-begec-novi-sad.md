@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Begeč Novi Sad
+image: /assets/posts/sup daska begec nebo voda i ja.jpg
 ---
 
 Spuštanje niz Dunav je jedna od lepih stvari koje možete sebi da priuštite a da
 se ne namučite mnogo (jer Dunav svakako teče).
-![SUP daska begec nebo voda i ja](/assets/posts/sup daska begec nebo voda i ja.jpg)
+![SUP daska begec nebo voda i ja]({{ page.image }})
 
 Sportski kolega Kolja je prvi probio led i za nekoliko sati se spustio iz Begeča
 do Štranda i usput obilazio ostrva, spasao jedno kuče i pocrneo kao da je jun

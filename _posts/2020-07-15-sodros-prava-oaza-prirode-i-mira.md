@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Šodroš, prava oaza prirode i mira
+image: /assets/posts/kupanje na sodrosu.jpg
 ---
 
 Da li znate gde je ovo ?
@@ -11,6 +12,6 @@ I da iz bilo kog dela Novog Sada možete biciklom doći za manje od pola sata.
 
 Plivanje, kupanje, uživanje do mile volje.
 
-![uzivanje na sodrosu](/assets/posts/kupanje na sodrosu.jpg 'Kupanje na Sodrosu')
+![uzivanje na sodrosu]({{ page.image }} 'Kupanje na Sodrosu')
 
 
