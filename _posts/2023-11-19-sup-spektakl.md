@@ -2,11 +2,15 @@
 layout: post
 ---
 
-Cuda se desavaju, cak i na trkama. Na ovogodisnjem prvenstvu sveta u sap daskama
-(SUP, stojece veslanje) na Tajlandu od 15-19 Novembra 2023, u finalnim trkama je
+Na ovogodisnjem prvenstvu sveta u sap daskama (SUP, stojece veslanje) na Tajlandu od 15-19 Novembra 2023 je
 bilo bas zadivljujuce.
 
-Krenimo prvo sa 200m sprint disciplinom
+Krenimo sa kvalifikacionim trkama. Nasa drzava imala predstavnika Nenada
+Mikovica koji polako ulazi u formu za svetska nadmetanja i nadamo se da ce ih biti sve vise
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9F3pgXN5MjI?si=HZRY4qeWVrd52HC3&amp;start=6435" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Pogledajmo finale na 200m sprint discipline
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A4wLk1m9mko?si=HZRY4qeWVrd52HC3&amp;start=3069" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
