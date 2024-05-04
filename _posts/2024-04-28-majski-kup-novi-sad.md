@@ -23,13 +23,13 @@ Trka je bila zanimljiva. Posto sam na domacem terenu, znao sam da ce sajla brzo 
 Evo snimka sa starta i finisha
 
 <div class="row post-image-bg" markdown="1">
-  <div class="col">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
+  <div class="col-md-6">
+    <video width="99%" height="auto" controls>
       <source src="/assets/posts/majski kup novi sad sup trka.mp4" type="video/mp4" markdown="1" >
     </video>
   </div>
-  <div class="col">
-    <video width="99%" height="540" autoplay loop muted markdown="1">
+  <div class="col-md-6">
+    <video width="99%" height="auto" controls>
       <source src="/assets/posts/majski kup novi sad finish.mp4" type="video/mp4" markdown="1" >
     </video>
   </div>
