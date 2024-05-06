@@ -12,3 +12,5 @@ Al ajd da vidimo koje vezbe ovde pomazu.
 Meni su sve svidela dva autora: Dr. Yoni Whitten https://www.youtube.com/watch?v=yGVX8PBN40M i Upright Health https://www.youtube.com/watch?v=_-oHVOrZEWw
 
 Prvo je masaza
+
+![](/assets/uploads/screenshot-2024-05-06-at-07.28.17.png "loptica")
