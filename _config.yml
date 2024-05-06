@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Iznajmljivanje SUP daske Novi Sad
+title: Iznajmljivanje sap daske SUP Novi Sad
 author: >-
   Trenutno ne radimo izdavanje daske
 
@@ -21,7 +21,7 @@ author: >-
 # Telefon <a href='tel:0637298539'>063 7298539</a><br>
 description: >- # this means to ignore newlines until "baseurl:"
   Teretanu na vodi sa dva sunca (jedno se odbija od vode)
-  dobijate kada iznajmite SUP (Stand Up Paddleboard) dasku.
+  dobijate kada iznajmite sap dasku (Stand Up Paddleboard SUP).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iznajmljivanje-sup-daske-novi-sad.trk.in.rs" # the base hostname & protocol for your site, e.g. http://example.com
 

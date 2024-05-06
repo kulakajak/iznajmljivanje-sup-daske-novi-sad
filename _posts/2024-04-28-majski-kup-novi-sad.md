@@ -13,7 +13,7 @@ nas reprezentativac na Tajlandu Nenad Mikovic.
 
 Mikovic me je vrlo prijatno iznenadio sa svojim savetima za treninge i ishranu,
 deljenjem iskustva sa svima prisutnim.
-Pozivao je gledaoce da isprobaju sup daske, pomagao oko duvanja iSUP i objasnjavao tehniku.
+Pozivao je gledaoce da isprobaju sup daske, pomagao oko naduvavanja iSUP-a i objasnjavao tehniku.
 
 Pred trku sam imao osecaj kao da smo na nekoj ekskurziji, gde se svi mi vrsnjaci upoznajemo.
 
@@ -42,13 +42,13 @@ Na okretu sam bio prvi, al uz veliko gubljenje energije. Valjda sam hteo da imit
 
 Mikovic je takticki u zadnjih 400m dao gas i obisao lagano.
 Sledecu dugacku trku moram pametnije izveslati i sacuvati energiju za celu stazu.
-Na cilju je prvi bio Nenad Mikovic, pa Dusan Orlovic, i Uros Pavlovic.
+Na cilju je prvi bio Nenad Mikovic, zatim Dusan Orlovic, i Uros Pavlovic.
 
 ![SUP Majski Kup Novi Sad dodela mikovic orlovic pavlovic](/assets/posts/majski kup novi sad dodela.jpeg)
 
 Al konacni redosled nije toliko bitan, koliko je bitaj taj dobar osecaj
 pripadnosti SUP zajednici, druzenje i deljenje znanja u ovom sportu.
 
-Da li se i u drugim sportovima sharuju rekviziti ?
+Da li se i u drugim sportovima dele rekviziti ?
 
 ![SUP Majski Kup Novi Sad dule na mikovicevoj dasci](/assets/posts/majski kup novi sad dule na mikovicevoj dasci.jpeg)
