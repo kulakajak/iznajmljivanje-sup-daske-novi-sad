@@ -1,6 +1,8 @@
 ---
 layout: post
 image: /assets/posts/majski kup novi sad dule start.jpeg
+title: Majski kup Novi Sad
+date: 2024-04-28T07:33:00.000Z
 ---
 
 Pocela je ovogodisnja sezona za mene, u nasem klubu na Sodrosu.
