@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jezero Bruje kod Erdevika
+image: /assets/posts/sup jezero bruje kod erdevika 2.jpg
 ---
 
 Jezero Bruje je prava netaknuta priroda, pogodna za veslanje i pecanje.
@@ -9,7 +10,7 @@ Kupanje na lekovitom izvoru "Banje" iz Rimskog doba, voda 17 stepeni.
 
 Obidjite Vinariju Erdevik iz 1826 godine i druge dve vinarije u blizini.
 
-![SUP Jezero Bruje](/assets/posts/sup jezero bruje kod erdevika 2.jpg)
+![SUP Jezero Bruje]({{ page.image }})
 ![SUP Jezero Bruje](/assets/posts/sup jezero bruje kod erdevika.jpg)
 
 ![SUP Jezero Bruje](/assets/posts/sup jezero bruje.png)

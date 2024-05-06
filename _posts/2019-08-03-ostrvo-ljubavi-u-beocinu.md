@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Ostrvo Ljubavi u Beocinu
+image: /assets/posts/sup beocin ostrvo ljubavi na sredini rukavca okupani suncem.jpg
 ---
 
 Beocinska strana Dunava je posebno lepa zato sto nije naseljena kaficima, a i brodici retko dolaze... vise ima prirode od drustva :)
 Ako necete da se kupate u vodi, onda ce vas bar okupati Sunce.
 
-![SUP Beocin Ostrvo ljubavi na sredini rukavca okupni Suncem](/assets/posts/sup beocin ostrvo ljubavi na sredini rukavca okupani suncem.jpg)
+![SUP Beocin Ostrvo ljubavi na sredini rukavca okupani Suncem]({{ page.image }})
 
 Mozete naci kamp mesto koje gleda prema zalasku Sunca, a mozete kruziti oko ostrva i pescanih ada.
 Posebno je lepa kamenita brana.

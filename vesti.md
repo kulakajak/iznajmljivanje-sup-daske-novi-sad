@@ -14,6 +14,9 @@ permalink: /vesti/
         {{ post.title | escape }}
       </a>
     </h3>
+    <a href="{{ post.url | relative_url }}">
+      <img src="{{ post.image }}">
+    </a>
     {%- if site.show_excerpts -%}
       {{ post.excerpt }}
     {%- endif -%}

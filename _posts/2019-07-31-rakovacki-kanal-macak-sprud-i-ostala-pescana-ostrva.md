@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rakovacki kanal, Macak sprud i ostala pescana ostrva
+image: /assets/posts/SUP ostrvo macak igra sa decom.jpg
 ---
 
 Kada vam dosade bazeni i druga mesta gde se placa ulaznica, probajte da se
@@ -25,5 +26,4 @@ Pratite Sunce i cist vazduh i mozete pronaci mnoga skrivena mesta gde ima
 plicaka na kojima mozete da se okupate.
 
 
-![Ostrvo Macak tj mackov sprud Novi Sad igra sa decom](/assets/posts/SUP ostrvo macak igra sa decom.jpg
- 'Ostrvo macak tj mackov sprud Novi Sad igar sa decom')
+![Ostrvo Macak tj mackov sprud Novi Sad igra sa decom]({{ page.image }} 'Ostrvo macak tj mackov sprud Novi Sad igar sa decom')

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Kanjiža i kupanjac na Tisi
+image: /assets/posts/sup daska kanjiza tisa.jpg
 ---
 
 Kampovanje u Kanjiži predstavlja pravo uživanje, ali kada imate i SUP daske onda
 je to pravi pogodak za decu.
 
-![sup daska u kanjizi na tisi](/assets/posts/sup daska kanjiza tisa.jpg 'SUP daska u Kanjizi na Tisi')
+![sup daska u kanjizi na tisi]({{ page.image }} 'SUP daska u Kanjizi na Tisi')
 
 
 Sa dve daske možete komotno da povedete desetoro dece
