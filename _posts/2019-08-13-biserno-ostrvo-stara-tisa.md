@@ -2,6 +2,7 @@
 layout: post
 title: Biserno ostrvo i Stara Tisa
 image: /assets/posts/sup biserno ostrvo skokovi sa platforme.jpg
+date: 2019-08-13T07:33:00.000Z
 ---
 
 Kada se malo bolje pogleda, u okolini Novog Sada su dve velike reke, Tisa i

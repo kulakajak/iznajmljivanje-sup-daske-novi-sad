@@ -2,6 +2,7 @@
 layout: post
 title: Jezero Bruje kod Erdevika
 image: /assets/posts/sup jezero bruje kod erdevika 2.jpg
+date: 2019-08-31T07:33:00.000Z
 ---
 
 Jezero Bruje je prava netaknuta priroda, pogodna za veslanje i pecanje.

@@ -2,6 +2,7 @@
 layout: post
 title: Rakovacki kanal, Macak sprud i ostala pescana ostrva
 image: /assets/posts/SUP ostrvo macak igra sa decom.jpg
+date: 2019-07-31T07:33:00.000Z
 ---
 
 Kada vam dosade bazeni i druga mesta gde se placa ulaznica, probajte da se

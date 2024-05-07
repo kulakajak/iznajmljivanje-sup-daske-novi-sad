@@ -2,6 +2,7 @@
 layout: post
 title: Begeč Novi Sad
 image: /assets/posts/sup daska begec nebo voda i ja.jpg
+date: 2019-09-17T07:33:00.000Z
 ---
 
 Spuštanje niz Dunav je jedna od lepih stvari koje možete sebi da priuštite a da

@@ -2,6 +2,7 @@
 layout: post
 title: Jezero Borkovac kod Rume
 image: /assets/posts/sup jezero borkovac kod rume kupanje.jpg
+date: 2019-08-10T07:33:00.000Z
 ---
 
 Jezero je kao iz bajke, topla voda (da ne pozelis da izadjes u jutra do mraka), sirok prostor, pristupacna obala.

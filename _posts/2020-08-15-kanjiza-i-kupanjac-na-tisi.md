@@ -2,6 +2,7 @@
 layout: post
 title: Kanjiža i kupanjac na Tisi
 image: /assets/posts/sup daska kanjiza tisa.jpg
+date: 2020-08-15T07:33:00.000Z
 ---
 
 Kampovanje u Kanjiži predstavlja pravo uživanje, ali kada imate i SUP daske onda

@@ -2,6 +2,7 @@
 layout: post
 title: Šodroš, prava oaza prirode i mira
 image: /assets/posts/kupanje na sodrosu.jpg
+date: 2020-07-15T07:33:00.000Z
 ---
 
 Da li znate gde je ovo ?

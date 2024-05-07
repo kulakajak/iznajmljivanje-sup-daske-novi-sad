@@ -2,6 +2,7 @@
 layout: post
 title: Grcka, more i SUP daska
 image: /assets/posts/grcka_more_sup_daska_plaza.jpg
+date: 2020-06-28T07:33:00.000Z
 ---
 
 <h2>

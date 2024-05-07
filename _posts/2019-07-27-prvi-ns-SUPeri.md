@@ -2,6 +2,7 @@
 layout: post
 title: Prvi NS SUP-eri
 image: /assets/posts/sup prvi novosadski superi.jpg
+date: 2019-07-27T07:33:00.000Z
 ---
 
 <h2>Pocetak SUP sporta</h2>

@@ -2,6 +2,7 @@
 layout: post
 title: Voznja sa decom
 image: /assets/posts/sup na sodrosu vezbanje misica.jpg
+date: 2019-07-28T07:33:00.000Z
 ---
 
 <p>
