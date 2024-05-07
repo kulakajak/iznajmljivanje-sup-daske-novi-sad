@@ -2,7 +2,7 @@
 layout: post
 title: SUP daska kao kajak
 image: /assets/posts/sup kajak na dunavu sa brodom.jpg
-date: 2024-07-29T07:33:00.000Z
+date: 2019-07-29T07:33:00.000Z
 ---
 
 <p>
