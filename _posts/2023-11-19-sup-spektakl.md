@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sup spektakl na Tajlandu
-date: 2024-05-06T07:36:00.000Z
+date: 2023-11-19T07:36:00.000Z
 ---
 
 Na ovogodisnjem prvenstvu sveta u sap daskama (SUP, stojece veslanje) na Tajlandu od 15-19 Novembra 2023 je
