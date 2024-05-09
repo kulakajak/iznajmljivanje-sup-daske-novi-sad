@@ -9,6 +9,10 @@ Nastaje trljanjem tetive (spoj misica) i ligamenata (spoj dve kosti). Verovatno 
 
 Al ajd da vidimo koje vezbe ovde pomazu.
 
+
+
+Postoje tri tipa: masaza, istezanje, jacanje sa gumama.
+
 Ukoliko i dalje postoje bolovi, najbolje je krenuti sa masazom
 
 Upright Health [https://www.youtube.com/watch?v=_-oHVOrZEWw](https://www.youtube.com/watch?v=_-oHVOrZEWw)
@@ -16,7 +20,5 @@ Upright Health [https://www.youtube.com/watch?v=_-oHVOrZEWw](https://www.youtube
 [](https://www.youtube.com/watch?v=_-oHVOrZEWw)
 
 ![](/assets/uploads/screenshot-2024-05-06-at-07.28.17.png "loptica")
-
-
 
 Za jacanje misica ramena mozete pogledati  Dr. Yoni Whitten <https://www.youtube.com/watch?v=yGVX8PBN40M>
