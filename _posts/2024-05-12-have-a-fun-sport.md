@@ -15,4 +15,4 @@ Zatim sam upoznao Adrej Kraytora koji je prosle godine za malo pobedio Conor Bax
 
 Svi takmicari imaju chip na nozi i meri se vreme kada ulazis i kada izlazis sa vode, i krece se jedan posle drugog. Super stvar posto mozes da ponovis trku koliko hoces puta. Al ja nisam nikako uspeo da spustim vreme ispod 1:42  
 
-Ja nisam
+Drugi dan je bila dugacka trka "Long Distance" na 12km. Veoma uzbudljiva bas zbog toga sto dugo traje. Na toj trci kada se prevrnete nije uopste strasno, izgubi se par sekundi, sto na komacnih sat i po nema nikakav uticaj. Ovde treba nauciti sedeti na talasu iza camca "draft" sto sam ispeo tek u zadnjem kilometru.
