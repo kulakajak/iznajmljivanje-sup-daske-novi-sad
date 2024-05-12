@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have a fun sport
-date: 2024-05-12T06:29:00.000Z
+date: 2024-05-11T08:29:00.000Z
 ---
 Mislio sam da mi organizujemo mnogobrojna takmicenja al kad sam dosao na Lake Rocks festival video sam kako izgleda mnogobrojnost. Mogu da se prijave svi, bilo kod uzrasta ( npr Filip Orlovic ima samo 7 godina ) i bilo koje fizicke spremnosti.
 
@@ -19,7 +19,7 @@ Ovako izgleda start i finish posle okreta oko bove.
 
   <div class="col-md-6">
 
-\    <video width="99%" height="auto" controls>
+\   <video width="99%" height="auto" controls>
 
 \    <source src="/assets/posts/video-121f7a2e006bfc3743ed0ec7e9d3ddb4-v.mp4" type="video/mp4" markdown="1" >
 
