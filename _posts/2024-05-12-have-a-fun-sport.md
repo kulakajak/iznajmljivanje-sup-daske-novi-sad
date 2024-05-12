@@ -21,7 +21,7 @@ Ovako izgleda start i finish posle okreta oko bove.
 
 \    <video width="99%" height="auto" controls>
 
-\    <source src="/assets/posts/majski kup novi sad sup trka.mp4" type="video/mp4" markdown="1" >
+\    <source src="/assets/posts/video-121f7a2e006bfc3743ed0ec7e9d3ddb4-v.mp4" type="video/mp4" markdown="1" >
 
 \    </video>
 
@@ -38,9 +38,5 @@ Ovako izgleda start i finish posle okreta oko bove.
   </div>
 
 </div>
-
-
-
-
 
 Drugi dan je bila dugacka trka "Long Distance" na 12km. Veoma uzbudljiva bas zbog toga sto dugo traje. Na toj trci kada se prevrnete nije uopste strasno, izgubi se par sekundi, sto na komacnih sat i po nema nikakav uticaj. Ovde treba nauciti sedeti na talasu iza camca "draft" sto sam ispeo tek u zadnjem kilometru.
