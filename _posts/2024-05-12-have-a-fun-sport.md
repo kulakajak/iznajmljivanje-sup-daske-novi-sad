@@ -15,7 +15,29 @@ Svi takmicari imaju chip na nozi i meri se vreme kada ulazis i kada izlazis sa v
 
 Ovako izgleda start i finish posle okreta oko bove.
 
+<div class="row post-image-bg" markdown="1">
 
+  <div class="col-md-6">
+
+\    <video width="99%" height="auto" controls>
+
+\    <source src="/assets/posts/majski kup novi sad sup trka.mp4" type="video/mp4" markdown="1" >
+
+\    </video>
+
+  </div>
+
+  <div class="col-md-6">
+
+\    <video width="99%" height="auto" controls>
+
+\    <source src="/assets/posts/majski kup novi sad finish.mp4" type="video/mp4" markdown="1" >
+
+\    </video>
+
+  </div>
+
+</div>
 
 
 
