@@ -2,6 +2,8 @@
 layout: post
 title: Have Fun sport
 date: 2024-05-11T08:29:00.000Z
+image: /assets/posts/dule_long.jpeg
+credit: Paddelstadt | Andy Klotz Fotografie
 ---
 Mislio sam da mi organizujemo vrlo posecena takmicenja al kad sam dosao na [Lake Rocks festival](https://www.paddelstadt.at/en/festival/) video sam kako izgleda mnogobrojnost. Mogu da se prijave svi, bilo kod uzrasta ( npr Filip Orlovic ima samo 7 godina ) i bilo koje fizicke spremnosti.
 
@@ -36,6 +38,10 @@ Mene mozete naci na ovom live streamu
 [https://www.facebook.com/paddelstadt/videos/366300206438822](https://www.facebook.com/paddelstadt/videos/366300206438822)
  start u 15m, prvi okret u 43m (krug 28m), drugi okret u 1:13 (krug 30m) i finish u 1:44 (krug 31m), total [1:28m](https://time2win.at/event/341/results/242210). Zanimljivo je da npr slovenac u 60+ (covek ima 62 godine) imao vreme [1:19](https://time2win.at/event/341/results/242195), sto znaci, ima sanse da uvezbam za 20 godina da idem jos brze :)
 
+
+<video width="99%" height="auto" controls>
+  <source src="/assets/posts/long.mp4" type="video/mp4" markdown="1" >
+</video>
 
 Treci dan su bile trke sa okretime, technical, na kojima se nisam pokazao jer ne
 znam da skrecem, ali i na tome moze da se radi. Svakako zanimljivo posto se ne

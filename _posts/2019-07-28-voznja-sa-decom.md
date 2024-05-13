@@ -15,7 +15,6 @@ prirodi, setnja ili bilo koje drugo kretanje, kao sto je SUP - stand up paddle b
 <p>
   Vezbajte misice dok dete uziva u prirodi
 </p>
-<img src='{{ page.image }}' title='sup na sodrosu vezvanje misica' alt='sup na sodrosu vezvanje misica'>
 <p>
   Povedite i kucnog ljubimca da se okupa
 </p>

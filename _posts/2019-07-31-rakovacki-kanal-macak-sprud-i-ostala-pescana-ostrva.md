@@ -25,6 +25,3 @@ mozete da uzivate lepoj prirodi, bez ljudi, samo vi i vas odsjaj u vodi :)
 
 Pratite Sunce i cist vazduh i mozete pronaci mnoga skrivena mesta gde ima
 plicaka na kojima mozete da se okupate.
-
-
-![Ostrvo Macak tj mackov sprud Novi Sad igra sa decom]({{ page.image }} 'Ostrvo macak tj mackov sprud Novi Sad igar sa decom')

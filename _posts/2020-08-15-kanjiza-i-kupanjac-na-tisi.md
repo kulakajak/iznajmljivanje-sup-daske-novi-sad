@@ -8,9 +8,6 @@ date: 2020-08-15T07:33:00.000Z
 Kampovanje u Kanjiži predstavlja pravo uživanje, ali kada imate i SUP daske onda
 je to pravi pogodak za decu.
 
-![sup daska u kanjizi na tisi]({{ page.image }} 'SUP daska u Kanjizi na Tisi')
-
-
 Sa dve daske možete komotno da povedete desetoro dece
 
 ![sup daska u kanjizi na tisi petosed](/assets/posts/sup daska kanjiza tisa petosed.jpg 'SUP daska u Kanjizi na Tisi Petosed')

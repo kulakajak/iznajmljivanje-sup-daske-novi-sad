@@ -13,6 +13,4 @@ I da iz bilo kog dela Novog Sada možete biciklom doći za manje od pola sata.
 
 Plivanje, kupanje, uživanje do mile volje.
 
-![uzivanje na sodrosu]({{ page.image }} 'Kupanje na Sodrosu')
-
 

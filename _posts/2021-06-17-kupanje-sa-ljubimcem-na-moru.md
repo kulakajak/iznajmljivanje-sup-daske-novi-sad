@@ -6,5 +6,3 @@ date: 2021-06-17T07:33:00.000Z
 ---
 
 Uzivancija za sve
-
-![kupanje sa daskom i ljubimcem na moru]({{ page.image }} 'Kupanje sa daskom i ljubimcem na moru')

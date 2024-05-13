@@ -12,8 +12,6 @@ Ali kada imate na cemu da veslate (ako nemate [narucite SUP dasku vec
 danas](/naruci)) onda mozete pronaci mnoga skrivena mesta (koja se autom
 vrlo tesko pronalaze) i na kojima mozete da uzivate u pravoj prirodi:
 
-![SUP Biserno Ostrvo skokovi sa platforme]({{ page.image }})
-
 Biserno ostrvo je udaljeno oko 45 minuta od Novog Sada, ali posto SUP daske nisu
 teske, mogu se staviti na krov od auta.
 

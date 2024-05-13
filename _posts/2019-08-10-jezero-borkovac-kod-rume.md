@@ -11,8 +11,7 @@ Jezero je kao iz bajke, topla voda (da ne pozelis da izadjes u jutra do mraka), 
 
 Mesta za kampovanja, komaraca nema, tako da je ovo raj kampovanje i kupanje
 
-![SUP Jezero Borkovac kod Rume Kupanje kod brane]({{ page.image }})
+![SUP Jezero Borkovac kod Rume pogled sa brane](/assets/posts/sup jezero borkovac kod rume pogled sa brane.jpg)
 
 Uglavnom ovo predstavlja nezaobilazni deo ture po Vojvodjanskim jezerima.
 
-![SUP Jezero Borkovac kod Rume pogled sa brane](/assets/posts/sup jezero borkovac kod rume pogled sa brane.jpg)
