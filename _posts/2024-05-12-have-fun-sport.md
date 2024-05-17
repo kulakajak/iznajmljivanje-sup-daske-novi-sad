@@ -13,6 +13,8 @@ Cim sam stigao pronasao me je Goran Gogy SupPoljubac iz Rijeke i upoznao sa glav
 
 Zatim sam upoznao Adrej Kraytora koji je [prosle godine](/2023/11/19/sup-spektakl) za malo pobedio Conor Baxtera, superjak covek, al uvek nasmejan i dobar promoter ovog sporta. On mi je pomogao da izaberem velicinu vesla i zajedno smo izveslali zavrsnu trku na 200m.
 
+![]({{ site.baseurl}}/assets/posts/gogy.jpg)
+
 Na programu su bile 3 trke. Sprint, Long i Technical.
 
 Kod sprint trke svi takmicari imaju chip na nozi i meri se vreme kada ulazis i kada izlazis sa vode, i krece se jedan posle drugog. Super stvar posto mozes da ponovis trku koliko hoces puta i gleda se najbolje vreme. Preko sajta [https://time2win.at/event/341/results/](https://time2win.at/event/341/results/) na osnovu svoj startnog broja moze da se prati koje ti je najbolje vreme. Ja sa brojem 244, nisam nikako uspeo da spustim vreme ispod 1:42  mozda zbog umora od dugackog puta iz Srbije, a mozda zbog nove uske daske, posto mi je upravo to najbolje vreme bilo u dasci na naduvavanje iSUP.
