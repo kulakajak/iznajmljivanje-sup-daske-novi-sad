@@ -7,13 +7,20 @@ Kada imate bolove u ramenu verovatno je u pitanju "Shoulder impingement syndrome
 
 Nastaje trljanjem tetive (spoj misica) i ligamenata (spoj dve kosti). Verovatno supraspinatus (muscle and tendon that help form the rotator cuff) i coracoacromial ligament i zato se to ovo i zove Subacromial impingement syndrome (acromial je kost na vrhu ramena).
 
-Al ajd da vidimo koje vezbe ovde pomazu.
 
+Al ajd da vidimo na koje nacine mozemo ovo da resimo:
 
+1. Manji odmor i masaza
+2. Istezanje i fleksibilnost
+3. Vezbe snage i jacanje uz pomoc guma
+4. Kreme i suplementi u ishrani
+5. Polozaj tokom veslanja i pravilno drzanje tela
 
-Postoje tri tipa: masaza, istezanje, jacanje sa gumama.
+# Odmor i masaza
 
-Ukoliko i dalje postoje bolovi, najbolje je krenuti sa masazom
+Ukoliko i dalje postoje bolovi, najbolje je krenuti sa masazom. Odmor ne
+preporucujem posto time necete ojacati misice i ligamente, vec je preporucljivo
+nastaviti treninge ali smanjenim intenzitetom.
 
 Upright Health [https://www.youtube.com/watch?v=_-oHVOrZEWw](https://www.youtube.com/watch?v=_-oHVOrZEWw)
 
@@ -22,3 +29,5 @@ Upright Health [https://www.youtube.com/watch?v=_-oHVOrZEWw](https://www.youtube
 ![](/assets/uploads/screenshot-2024-05-06-at-07.28.17.png "loptica")
 
 Za jacanje misica ramena mozete pogledati  Dr. Yoni Whitten <https://www.youtube.com/watch?v=yGVX8PBN40M>
+kao i Milton Chiropractic Clinic Cambridge
+<https://www.youtube.com/watch?v=hbFm9z_bvhM>
