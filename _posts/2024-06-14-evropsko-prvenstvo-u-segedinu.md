@@ -30,6 +30,7 @@ Prvi je bio grk Fragkos sa vremenom 50:01 sto je samo tri minuta sporije nego u
 open kategoriji gde je pobedio spanac Manuel Hoyuela sa 47:44. Hoiyela je inace
 osvojio i 3 mesto na 200m sa vremenom 47sek a prvi na 200m je bio Andrii Kraitor
 sa vremenom 46.449sek. Snimak finala nema na youtube nega ne eurosportovom
-sajtu.
+sajtu. Da udjete u finalnu trku medju 8 najbrzih, treba vam vreme ispod
+52 sekunde na 200m.
 
 ![]({{ site.baseurl }}/assets/posts/2024_segedin_long_results.png)

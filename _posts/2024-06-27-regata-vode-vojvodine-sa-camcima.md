@@ -17,3 +17,8 @@ Mozete povesti decu
 ![](/assets/uploads/regata-voje-vojvodine-2018.jpg)
 
 a mozete i sami
+
+
+<video width="99%" height="auto" controls>
+  <source src="/assets/posts/regata_sup_2022.mp4" type="video/mp4" markdown="1" >
+</video>
