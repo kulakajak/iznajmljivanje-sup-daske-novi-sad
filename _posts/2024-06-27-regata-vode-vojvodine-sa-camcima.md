@@ -3,6 +3,7 @@ layout: post
 title: Regata Vode Vojvodine sa camcima
 date: 2024-06-27T09:54:00.000Z
 image: /assets/uploads/regata-na-dasci.jpg
+credit: Mirjana Zivkovic Ex Petrovic
 ---
 Ne secam se kada je bilo prvi put (mozda 2014 ili 2016) ali od tada idem svake godine na Regatu Vode Vojvodine.
 
